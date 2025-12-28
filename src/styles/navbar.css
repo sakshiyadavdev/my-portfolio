@@ -61,7 +61,7 @@
 }
 
 /* Hamburger */
-️ */ .menu-icon {
+️  .menu-icon {
     display: none;
     flex-direction: column;
     cursor: pointer;
