@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--dark-bg);
+    color: var(--text-light);
+    font-family: "Inter", sans-serif;
+}
+
+:root {
+    --primary-teal: #14b8a6;
+    --dark-bg: #0f172a;
+    --dark-grey: #1e293b;
+    --text-light: #f8fafc;
+    --text-muted: #94a3b8;
+}
