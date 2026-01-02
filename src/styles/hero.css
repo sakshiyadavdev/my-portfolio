@@ -35,7 +35,7 @@
 }
 
 .hero-text p {
-    max-width: 480px;
+    max-width: 600px;
     margin: 1.4rem 0 2.2rem;
     line-height: 1.7;
     color: var(--text-muted);

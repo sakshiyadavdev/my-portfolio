@@ -42,7 +42,8 @@
 }
 
 .info-item span {
-    display: block;
+    display: flex;
+    justify-content: flex-start;
     color: var(--primary-teal);
     font-size: 0.85rem;
     margin-bottom: 0.3rem;

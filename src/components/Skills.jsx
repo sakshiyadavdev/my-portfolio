@@ -22,6 +22,7 @@ const Skills = () => {
                             <li>JavaScript (ES6+)</li>
                             <li>HTML5</li>
                             <li>CSS3</li>
+                            <li>Material UI</li>
                         </ul>
                     </div>
 
@@ -31,7 +32,8 @@ const Skills = () => {
                         <ul>
                             <li>Java</li>
                             <li>OOP Concepts</li>
-                            <li>Basic DSA</li>
+                            <li>WebSocket</li>
+                            <li>Node.js</li>
                         </ul>
                     </div>
 
