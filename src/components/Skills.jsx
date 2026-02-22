@@ -19,6 +19,7 @@ const Skills = () => {
                         <h3>Frontend</h3>
                         <ul>
                             <li>React.js</li>
+                            <li>Next.js</li>
                             <li>JavaScript (ES6+)</li>
                             <li>HTML5</li>
                             <li>CSS3</li>
@@ -26,24 +27,33 @@ const Skills = () => {
                         </ul>
                     </div>
 
-                    {/* Programming */}
+                    {/* Backend */}
                     <div className="skill-card">
-                        <h3>Programming</h3>
+                        <h3>Backend</h3>
                         <ul>
                             <li>Java</li>
-                            <li>OOP Concepts</li>
-                            <li>WebSocket</li>
                             <li>Node.js</li>
+                            <li>WebSocket</li>
+                                
                         </ul>
                     </div>
 
-                    {/* Tools */}
+                    {/* Database */}
                     <div className="skill-card">
-                        <h3>Tools</h3>
+                        <h3>Database</h3>
+                        <ul>
+                            <li>MongoDB</li>
+                        </ul>
+                    </div>
+
+                    {/* Tools & Deployment */}
+                    <div className="skill-card">
+                        <h3>Tools & Deployment</h3>
                         <ul>
                             <li>Git & GitHub</li>
                             <li>Vite</li>
                             <li>VS Code</li>
+                            <li>Vercel</li>
                         </ul>
                     </div>
 

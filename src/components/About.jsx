@@ -48,6 +48,11 @@ const About = () => {
                             <h4>React</h4>
                             <span>Main Expertise</span>
                         </div>
+
+                        <div className="about-card">
+                            <h4>Next Js</h4>
+                            <span>Main Expertise</span>
+                        </div>
                     </div>
 
                 </div>
